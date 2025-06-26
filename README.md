@@ -63,9 +63,4 @@ To set up and run the project locally, follow these steps:
 - [Express.js Guide](https://expressjs.com/)
 - [React.js Documentation](https://legacy.reactjs.org/docs)
 
-## Team Members
-- Fai bin Onayq
-- Amwaj Alzahrani
-- Nada Alsultan
-
 
