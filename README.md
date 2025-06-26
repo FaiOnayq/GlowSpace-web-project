@@ -5,10 +5,6 @@
 
 **GlowSpace**  is a web platform that connects users with the top beauty salons in Riyadh. It provides an intuitive and user-friendly experience for discovering salons, show their rates, and exploring their services. The platform also features an admin panel for salon owners to manage their information, services.
 
-## Flowchart
-![image](https://github.com/user-attachments/assets/bc85c4da-57e7-4702-ac47-d15cee092dcd)
-
-
 ## Setup
 To set up and run the project locally, follow these steps:
 1.	Clone the Repository
