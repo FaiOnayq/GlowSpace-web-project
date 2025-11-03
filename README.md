@@ -32,19 +32,17 @@ To set up and run the project locally, follow these steps:
 
 ## Screenshots
 - Home Page
-  ![image](https://github.com/user-attachments/assets/23020d14-4981-4e75-bf63-b77c4921266e)
+  ![image](img/Screenshot_4-11-2025_0614_localhost.jpeg)
 - Salon Profile
-  ![image](https://github.com/user-attachments/assets/56440375-96d0-4731-ba97-9819e63de273)
+  ![image](img/Screenshot_4-11-2025_04728_localhost.jpeg)
 - About
   ![image](https://github.com/user-attachments/assets/6f537278-1b30-4736-b8ef-497598aa878f)
-- Sign up
-  ![image](https://github.com/user-attachments/assets/7434d4ae-9a56-4f7d-89c7-9631c0e0efa8)
 - Log in
-  ![image](https://github.com/user-attachments/assets/231fe4f4-aecc-451c-9021-714633dc224b)
+  ![image](img/Screenshot_4-11-2025_02916_localhost.jpeg)
 - Salon dashboard
-  ![image](https://github.com/user-attachments/assets/b73143f0-59cf-4cd6-a9d3-a51f1fbf70b2)
+  ![image](img/Screenshot_4-11-2025_02928_localhost.jpeg)
 - Salon Profile edit
-  ![image](https://github.com/user-attachments/assets/320dcbe4-19c8-4c6e-a61b-b762e1b5d0c9)
+  ![image](img/Screenshot_4-11-2025_02946_localhost.jpeg)
 
 
 ## Future Work
