@@ -3,7 +3,8 @@
 
         <div class="salon-detail-container" data-salon-id="<%= salon._id %>">
             <div class="salon-header">
-                <img src="<%= salon.logo? salon.logo : '/images/tab.png' %>" alt="<%= salon.name %> Logo" class="salon-logo">
+                <img src="<%= salon.logo? salon.logo : '/images/tab.png' %>" alt="<%= salon.name %> Logo"
+                    class="salon-logo">
                 <h1 class="salon-name">
                     <%= salon.name %>
                 </h1>
@@ -22,7 +23,7 @@
                 </p>
                 <div class="info-container">
                     <img src="../images/address.png" alt="Address Icon" class="icon" />
-                    <a class="info-text" href ="<%= salon.locationLink %>" target="_blank">
+                    <a class="info-text" href="<%= salon.locationLink %>" target="_blank">
                         <%= salon.location %>
                     </a>
                 </div>
@@ -35,7 +36,7 @@
                     </p>
                 </div>
 
-                
+
 
             </div>
 
@@ -47,7 +48,12 @@
                             <span class="service-name">
                                 <%= service.serviceName %>
                             </span>
-                            <span class="service-price">$<%= service.servicePrice %></span>
+                            <span class="service-price">
+                                <span class="riyal-symbol">$</span>
+                                <%= service.servicePrice %>
+                            </span>
+
+
                         </li>
                         <% }) %>
                 </ul>

@@ -1,3 +1,18 @@
+@font-face {
+  font-family: 'Arshid';
+  src: url('/arshid.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.riyal-symbol {
+  font-family: 'Arshid', sans-serif;
+  color: #008000; /* Optional: green color */
+  font-size: 1.1em;
+  margin-right: 2px;
+}
+
+
 body {
   font-family: "Gentium Plus", serif;
   margin: 0;

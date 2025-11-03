@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@abdulrysr/saudi-riyal-new-symbol-font": "^1.0.8",
     "bcrypt": "^5.1.1",
     "bcrypt-nodejs": "^0.0.3",
     "connect-flash": "^0.1.1",

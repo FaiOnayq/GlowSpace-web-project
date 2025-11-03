@@ -16,7 +16,7 @@ app.use(cookieParser());
 app.set('view engine', 'ejs');
 app.set('views', './views'); // Specidfy  the directory where your views are located
 
-// Middleware
+// Middleware 
 app.use(express.urlencoded({ extended: true }));
 
 app.use(express.json()); // For parsing application/json
