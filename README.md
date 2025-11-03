@@ -34,7 +34,7 @@ To set up and run the project locally, follow these steps:
 - Home Page
   ![image](img/Screenshot_4-11-2025_0614_localhost.jpeg)
 - Salon Profile
-  ![image](img/Screenshot_4-11-2025_04728_localhost.jpeg)
+  ![image](img/Screenshot 2025-11-04 005927.png)
 - About
   ![image](https://github.com/user-attachments/assets/6f537278-1b30-4736-b8ef-497598aa878f)
 - Log in
